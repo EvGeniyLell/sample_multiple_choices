@@ -11,6 +11,6 @@ message Configuration {
   Feature feature = 1;
 
   // Value.
-  int32 value= 2;
+  string value= 2;
 
 }

@@ -2,13 +2,15 @@ syntax = "proto3";
 
 package com.example.plugin_b;
 
-// Define features available in the plugin.
+// Define features available in the plugin b.
 enum Feature {
 
-  // A_1.
-  FEATURE_A_1 = 0;
+  // B_1.
+  FEATURE_B_1 = 0;
 
-  // A_2.
-  FEATURE_A_2 = 1;
+  // B_2.
+  FEATURE_B_2 = 1;
 
+  // B_3.
+  FEATURE_B_3 = 3;
 }
